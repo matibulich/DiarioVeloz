@@ -1,0 +1,8 @@
+
+localhost/diarioveloz
+
+se ingresa desde el enlace panel-admin en index.php
+
+
+usuario: matias
+contraseña: matias
